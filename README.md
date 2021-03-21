@@ -1,4 +1,4 @@
-# docker-pytyon-chromium
+# docker-python-chromium
 
 Python、Chromiumでスクレイピング等を行う用途のイメージ
 
